@@ -1,0 +1,18 @@
+{
+  "name": "elasticsearch-movies",
+  "version": "1.0.0",
+  "description": "Movie search example built with Elasticsearch and Node.js",
+  "main": "src/index.js",
+  "scripts": {
+    "setup": "node --env-file=.env src/index.js setup",
+    "search": "node --env-file=.env src/index.js search",
+    "genres": "node --env-file=.env src/index.js genres"
+  },
+  "engines": {
+    "node": ">=20.6.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@elastic/elasticsearch": "^9.0.0"
+  }
+}
