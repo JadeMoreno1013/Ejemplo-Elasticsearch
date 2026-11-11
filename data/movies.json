@@ -1,0 +1,17 @@
+[
+  { "id": 1, "title": "The Matrix", "synopsis": "Un programador descubre que la realidad es una simulación creada por máquinas", "genre": "science-fiction", "year": 1999, "rating": 8.7 },
+  { "id": 2, "title": "Blade Runner", "synopsis": "Un cazador persigue a robots que se hacen pasar por humanos en una ciudad futurista", "genre": "science-fiction", "year": 1982, "rating": 8.1 },
+  { "id": 3, "title": "Interstellar", "synopsis": "Un grupo de astronautas viaja por el espacio para salvar a la humanidad", "genre": "science-fiction", "year": 2014, "rating": 8.7 },
+  { "id": 4, "title": "WALL-E", "synopsis": "Un pequeño robot limpia la Tierra abandonada y se enamora de otro robot", "genre": "animation", "year": 2008, "rating": 8.4 },
+  { "id": 5, "title": "Toy Story", "synopsis": "Los juguetes de un niño cobran vida cuando nadie los observa", "genre": "animation", "year": 1995, "rating": 8.3 },
+  { "id": 6, "title": "Coco", "synopsis": "Un niño viaja al mundo de los muertos para descubrir la historia de su familia", "genre": "animation", "year": 2017, "rating": 8.4 },
+  { "id": 7, "title": "The Godfather", "synopsis": "La historia de una familia mafiosa y el poder que pasa de padre a hijo", "genre": "drama", "year": 1972, "rating": 9.2 },
+  { "id": 8, "title": "Forrest Gump", "synopsis": "Un hombre sencillo vive los grandes momentos de la historia de su país", "genre": "drama", "year": 1994, "rating": 8.8 },
+  { "id": 9, "title": "Parasite", "synopsis": "Una familia pobre se infiltra en la casa de una familia rica", "genre": "drama", "year": 2019, "rating": 8.5 },
+  { "id": 10, "title": "The Mask", "synopsis": "Un empleado tímido encuentra una máscara que lo convierte en un personaje caótico", "genre": "comedy", "year": 1994, "rating": 6.9 },
+  { "id": 11, "title": "Superbad", "synopsis": "Dos amigos intentan llegar a una fiesta antes de terminar el colegio", "genre": "comedy", "year": 2007, "rating": 7.6 },
+  { "id": 12, "title": "Mad Max: Fury Road", "synopsis": "Una persecución en el desierto contra un tirano que controla el agua", "genre": "action", "year": 2015, "rating": 8.1 },
+  { "id": 13, "title": "Die Hard", "synopsis": "Un policía enfrenta solo a unos ladrones en un edificio de oficinas", "genre": "action", "year": 1988, "rating": 8.2 },
+  { "id": 14, "title": "Terminator 2", "synopsis": "Un robot viaja desde el futuro para proteger a un niño de una máquina asesina", "genre": "action", "year": 1991, "rating": 8.6 },
+  { "id": 15, "title": "Gravity", "synopsis": "Dos astronautas luchan por sobrevivir en el espacio tras un accidente", "genre": "science-fiction", "year": 2013, "rating": 7.7 }
+]
